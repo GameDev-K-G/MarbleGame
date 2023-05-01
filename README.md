@@ -33,5 +33,7 @@ Game development project - development of a marble game like we used to play dur
   
 [מדריך למשחק גולות](https://www.youtube.com/watch?v=SfdKJllv7BM&ab_channel=YaaraBashanHaham)![download (4)](https://user-images.githubusercontent.com/73976733/226754569-ea3ddf05-52f0-4c40-b892-21a117e539e3.jpeg)
 
+ *קישור למשחק ב  :
+[itch.io](https://gamedevk-g.itch.io/marblegame)
 ## תהנו :smiley:
 </div>
